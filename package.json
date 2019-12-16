@@ -1,0 +1,26 @@
+{
+  "name": "jk2dt",
+  "version": "1.0.0",
+  "description": "jenkins构建概要推送到钉钉群",
+  "main": "index.js",
+  "bin": {
+    "jk2dt": "./cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/crper/jk2dt/issues"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:crper/jk2dt.git"
+  },
+  "keywords": [
+    "jenkins",
+    "dingtalk",
+    "jk2dt"
+  ],
+  "author": "crper(crper@outlook.com)",
+  "license": "MIT"
+}
